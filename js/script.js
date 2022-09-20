@@ -7,5 +7,5 @@ let decr = 10;
 // --decr;
 
 console.log(++incr);
-console.log(--decr);
+console.log(--decr); 
 
